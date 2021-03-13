@@ -1,0 +1,9 @@
+{
+    "name": "Counter",
+    "namespace": "Botble\\Counter\\",
+    "provider": "Botble\\Counter\\Providers\\CounterServiceProvider",
+    "author": "N/A",
+    "url": "N/A",
+    "version": "1.0",
+    "description": "The description for module counter"
+}
